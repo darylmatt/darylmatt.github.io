@@ -1,0 +1,22 @@
+
+
+body {
+    background-color: #E9E0D9;
+    font-family: Agrandir;
+}
+
+.hello {
+    font-family: AgrandirGrand;
+}
+
+img {
+    width: 100%;
+    /* margin: 0 auto 20px auto; */
+    /* display: block; */
+}
+
+
+
+a:hover {
+    color: rgb(99, 72, 72) !important	;
+}
