@@ -10,14 +10,18 @@ body {
     font-family: Agrandir;
 }
 
+#monkeys{
+    background-image: url('https://media.giphy.com/media/izb5woCzNxa9IstxkH/giphy.gif');
+}
+
 .hello {
     font-family: AgrandirGrand;
+    color: purple;
+    font-weight: bold;
 }
 
 img {
     width: 100%;
-    /* margin: 0 auto 20px auto; */
-    /* display: block; */
 }
 
 
