@@ -1,6 +1,11 @@
 
+#topBanner{
+    background-image: url("https://media.giphy.com/media/izb5woCzNxa9IstxkH/giphy.gif");
+}
+
 
 body {
+    
     background-color: #E9E0D9;
     font-family: Agrandir;
 }
