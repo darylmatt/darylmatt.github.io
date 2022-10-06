@@ -1,39 +1,3 @@
-/* 
-#topBanner{
-    background-image: url("https://media.giphy.com/media/izb5woCzNxa9IstxkH/giphy.gif");
-}
-
-
-body {
-    
-    background-color: #E9E0D9;
-    font-family: Agrandir;
-}
-
-#monkeys{
-    background-image: url('https://media.giphy.com/media/izb5woCzNxa9IstxkH/giphy.gif');
-    border: black solid 3px;
-    color: black;
-    font-weight: bold;
-}
-
-.hello {
-    font-family: AgrandirGrand;
-    color: purple;
-    font-weight: bold;
-}
-
-img {
-    height: 350px; 
-    width: 300px;
-    border: black solid 2px;
-}
-
-
-
-a:hover {
-    color: rgb(99, 72, 72) !important	;
-} */
 
 
 .carousel-item {
