@@ -12,6 +12,9 @@ body {
 
 #monkeys{
     background-image: url('https://media.giphy.com/media/izb5woCzNxa9IstxkH/giphy.gif');
+    border: black solid 3px;
+    color: black;
+    font-weight: bold;
 }
 
 .hello {
@@ -21,7 +24,9 @@ body {
 }
 
 img {
-    width: 100%;
+    height: 350px; 
+    width: 300px;
+    border: black solid 2px;
 }
 
 
